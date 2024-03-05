@@ -1,4 +1,4 @@
-# Form Validation with Redirect README
+# Form Validation 
 
 Bu proje, bir web formunun doğrulama işlemlerini gerçekleştirir ve belirli koşullar sağlandığında başka bir sayfaya yönlendirme işlemi gerçekleştirir.
 
